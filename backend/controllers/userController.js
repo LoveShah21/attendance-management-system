@@ -209,7 +209,6 @@ const sendOtp = async (req, res) => {
         <p>This code is valid for 5 minutes.</p>
         <br />
         <p style="color: grey; font-size: 14px;">Please do not share this code with anyone.</p>
-        <p>– Aqua Overseas</p>
       `,
     });
 
